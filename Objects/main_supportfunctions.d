@@ -1,0 +1,11 @@
+.\objects\main_supportfunctions.o: main_SupportFunctions.c
+.\objects\main_supportfunctions.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
+.\objects\main_supportfunctions.o: STD_TYPES.h
+.\objects\main_supportfunctions.o: BIT_MATH.h
+.\objects\main_supportfunctions.o: NVIC_interface.h
+.\objects\main_supportfunctions.o: NVIC_private.h
+.\objects\main_supportfunctions.o: SCB_interface.h
+.\objects\main_supportfunctions.o: SCB_private.h
+.\objects\main_supportfunctions.o: Timer_interface.h
+.\objects\main_supportfunctions.o: Timer_private.h
+.\objects\main_supportfunctions.o: main_SupportFuncs.h

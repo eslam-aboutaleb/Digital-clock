@@ -1,0 +1,11 @@
+.\objects\foreground_prog.o: ForeGround_prog.c
+.\objects\foreground_prog.o: STD_TYPES.h
+.\objects\foreground_prog.o: BIT_MATH.h
+.\objects\foreground_prog.o: main_SupportFuncs.h
+.\objects\foreground_prog.o: SW.h
+.\objects\foreground_prog.o: Display.h
+.\objects\foreground_prog.o: Time.h
+.\objects\foreground_prog.o: SSD.h
+.\objects\foreground_prog.o: SSD_port.h
+.\objects\foreground_prog.o: Timer_interface.h
+.\objects\foreground_prog.o: Timer_private.h

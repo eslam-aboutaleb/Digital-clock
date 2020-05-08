@@ -1,0 +1,10 @@
+.\objects\display.o: Display.c
+.\objects\display.o: STD_TYPES.h
+.\objects\display.o: BIT_MATH.h
+.\objects\display.o: Timer_interface.h
+.\objects\display.o: Timer_private.h
+.\objects\display.o: SSD.h
+.\objects\display.o: SSD_port.h
+.\objects\display.o: Time.h
+.\objects\display.o: Display.h
+.\objects\display.o: SW.h
